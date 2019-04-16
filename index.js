@@ -1,3 +1,3 @@
-showAlert() {
-  alert("The button works");
-}
+function showAlert() {
+  alert("The button works!");
+};
