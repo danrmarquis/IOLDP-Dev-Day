@@ -3,6 +3,7 @@ Let's learn how websites work and how to create a simple one!
 
 ### Intro and Setup
 1. Download Visual Studio Code [Download and install here](https://code.visualstudio.com/)
+2. You can also edit any of the files with Notepad!
 
 Now you're good to go!
 
